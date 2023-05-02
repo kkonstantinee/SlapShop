@@ -1243,6 +1243,16 @@
   letter-spacing: 0em;
   text-align: left;
 }
+@media only screen and (max-width: 1536px) {
+  .texti {
+  font-size: 16.5px;
+  }
+}
+@media only screen and (max-width: 1536px) {
+  .readmore {
+  font-size: 16.5px;
+  }
+}
 .list2 {
   font-family: 'Inter';
   font-size: 14px;
